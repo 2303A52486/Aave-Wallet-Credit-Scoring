@@ -18,7 +18,7 @@ Histogram below shows the range of wallet credit scores:
 
 
 
-!\[Score Distribution](credit\_score\_distribution.png)
+![Score Distribution](credit_score_distribution.png)
 
 
 
@@ -46,7 +46,7 @@ Most of the wallets fall in the upper-middle class, reflecting wise handling of 
 
 
 
-751 - 1000    --->     These wallets always deposit, borrow in a prudent manner, repay in their entirety, and do not get liquidated. They 			are very dependable DeFi actors.
+**751 - 1000**    --->     These wallets always deposit, borrow in a prudent manner, repay in their entirety, and do not get liquidated. They 			are very dependable DeFi actors.
 
 
 
